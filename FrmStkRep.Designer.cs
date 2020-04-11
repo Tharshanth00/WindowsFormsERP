@@ -76,9 +76,9 @@
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.label1.Location = new System.Drawing.Point(525, 17);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(174, 32);
+            this.label1.Size = new System.Drawing.Size(89, 32);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Stock Report";
+            this.label1.Text = "Stock ";
             // 
             // Pannel1
             // 
