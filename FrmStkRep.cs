@@ -24,7 +24,7 @@ namespace WindowsFormsERP
         {
             // dataGridView1.Font = new Font("Arial", 11);
             //  dataGridView1.Columns[29].DefaultCellStyle.Format = "D2";
-            // hey Lisa
+            // hey Tharshanth
             if (userLevel == "Administrator") {
 
                 //SET ALIGNMENT RIGHT
